@@ -5,16 +5,16 @@ This project is a simple analog clock created using HTML, CSS, and JavaScript. I
 ### Files
 The project consists of the following files:
 
-- index.html: This file contains the HTML structure of the analog clock.
-- style.css: This file contains the CSS styles for the analog clock.
-- script.js: This file contains the JavaScript code to make the clock functional.
+1. index.html: This file contains the HTML structure of the analog clock.
+2. style.css: This file contains the CSS styles for the analog clock.
+3. script.js: This file contains the JavaScript code to make the clock functional.
 
 ### Usage
 To use the analog clock:
 
-- Download or clone the project repository.
-- Open the index.html file in a web browser.
-- The analog clock will be displayed, showing the current time.
+1. Download or clone the project repository.
+2. Open the index.html file in a web browser.
+3. The analog clock will be displayed, showing the current time.
 
 ### Features
 - The clock displays the current time accurately.
