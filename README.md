@@ -24,5 +24,5 @@ To use the analog clock:
 ### Customization
 To customize the analog clock:
 
-Modify the CSS styles in the style.css file to change the appearance of the clock.
-Adjust the JavaScript code in the script.js file to change the behavior of the clock, such as adding additional features or animations.
+ - Modify the CSS styles in the style.css file to change the appearance of the clock.
+ - Adjust the JavaScript code in the script.js file to change the behavior of the clock, such as adding additional features or animations.
