@@ -1,4 +1,8 @@
 # Analog Clock
+Here is the preview video of the website below:
+
+will updalod soon.
+
 ### Overview
 This project is a simple analog clock created using HTML, CSS, and JavaScript. It displays the current time in a traditional analog format with hour, minute, and second hands.
 
