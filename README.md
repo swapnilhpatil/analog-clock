@@ -1,5 +1,5 @@
-Analog Clock README
-Overview
+# Analog Clock README
+### Overview
 This project is a simple analog clock created using HTML, CSS, and JavaScript. It displays the current time in a traditional analog format with hour, minute, and second hands.
 
 Files
