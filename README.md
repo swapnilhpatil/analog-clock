@@ -1,5 +1,5 @@
 # Analog Clock
-Here is the preview video of the website below:
+Here is the preview video of the demo below:
 
 Demo will updalod soon.
 
